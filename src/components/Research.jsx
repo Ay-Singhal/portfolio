@@ -19,7 +19,7 @@ function ResearchWork() {
 
   const handleViewPaperClick = (id, paperLink) => {
     if (!paperLink || paperLink.length === 0) {
-      toast.info("Paper is accepted but no link provided");
+      toast.info("Paper is accepted but yet to come online");
     } else {
       window.open(paperLink, "_blank", "noopener,noreferrer");
     }

@@ -1,6 +1,5 @@
 
 import profile from '../assets/profile.png';
-import book from '../assets/portfolio/book.png'
 import html from '../assets/html.png';
 import css from '../assets/css.png';
 import tailwind from '../assets/tailwind.png';
@@ -24,5 +23,4 @@ export default{
     journal,
     conference,
     contact,
-    book,
 };

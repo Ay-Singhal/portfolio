@@ -35,7 +35,7 @@ function Experience() {
           <h3 className="text-xl font-bold mb-2">B-Tech in Computer Science</h3>
           <p className="text-gray-300">C.V. Raman Global University, Bhubaneswar | 2020-2024</p>
           <ul className="list-disc pl-8 text-left inline-block">
-            <li>CGPA: 9.19</li>
+            <li>CGPA: 9.27</li>
           </ul>
         </li>
         <li className="mb-8">

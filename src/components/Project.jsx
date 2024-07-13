@@ -1,21 +1,29 @@
 import React from 'react';
-import book from '../assets/portfolio/book.png';
+import CodeEditor from '../assets/portfolio/Code Editor.png';
 import traffic from '../assets/portfolio/traffic.jpg';
+import Cryptotracker from '../assets/portfolio/crypto_tracker.png';
 
 function Project() {
   const portfolio = [
     {
       id: 1,
-      src: book,
-      demoLink: "https://book-store-ie11geo41-ayush-singhals-projects-b3c7cef0.vercel.app/",
-      codeLink: "https://github.com/Ay-Singhal/Book_store",
+      src: CodeEditor,
+      demoLink: "https://code-editor-63y2e73kp-ayush-singhals-projects-b3c7cef0.vercel.app/",
+      codeLink: "https://github.com/Ay-Singhal/Code-Editor",
+    },
+    ,
+    {
+      id:3,
+      src: Cryptotracker,
+      demoLink:"https://crypto-tracker-ccmsywusj-ayush-singhals-projects-b3c7cef0.vercel.app/",
+      codeLink:"https://github.com/Ay-Singhal/Crypto-Tracker",
     },
     {
       id: 2,
       src: traffic,
       demoLink: "",
       codeLink: "https://github.com/Ay-Singhal/Automatic-Number-Plate-Detection",
-    },
+    }
   ];
 
   return (
