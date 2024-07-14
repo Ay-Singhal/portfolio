@@ -12,16 +12,25 @@ function Experience() {
           <h3 className="text-xl font-bold mb-2">Associate Software Engineer Intern (Frontend Developer)</h3>
           <p className="text-gray-300">Incture Technologies | February 2024 - ongoing</p>
           <ul className="list-disc pl-8 text-left inline-block">
-            <li>Contributing to React product development by enhancing frontend functionalities and UI through team collaboration.</li>
-            <li>Gaining hands-on experience in React, focusing on component creation, state management, and API integration for improved product performance.</li>
+            <li>Developed ReactJS front-end for resource management app in a 20+ member team.</li>
+            <li>Managed 1500+ employee profiles and allocation for 50+ projects.</li>
+            <li>Enhanced profile management with Material UI (+30% accuracy) and collaborated with UX/backend teams (-25%
+              turnaround time).</li>
+            <li>Technologies used: ReactJs, Redux, Tailwind Css, MUI.</li>  
           </ul>
         </li>
         <li className="mb-8">
           <h3 className="text-xl font-bold mb-2">Summer Training Internship</h3>
-          <p className="text-gray-300">ONGC, Dehradun | June 2023 - July 2023</p>
+          <p className="text-gray-300">ONGC, Dehradun | July 2023 - August 2023</p>
           <ul className="list-disc pl-8 text-left inline-block">
-            <li>Developed a website that can automate the system to streamline the login process at ONGC.</li>
-            <li>Implemented a multi-tiered user approval system with role-based access control, involving Site Managers, Regional Managers, and the Head.</li>
+            <li>Developed a Multi-tiered user approval system, ensuring that user accounts could only be created by 3 levels of
+            approval by Site Managers, Regional Managers and the Head Epinet.</li>
+            <li>Utilized React Hook Form and YUP for efficient form development, ensuring seamless validation and error 
+            handling.</li>
+            <li>
+            Implemented robust communication with backend APIs, ensuring smooth data exchange and interaction with the 
+            server.
+            </li>
           </ul>
         </li>
       </ul>
